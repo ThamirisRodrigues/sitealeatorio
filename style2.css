@@ -6,10 +6,6 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.chamativo{
-    font-size: 60px;
-}
-
 .alinhar li{
     display: inline-flex;
     align-items: center;
@@ -42,35 +38,24 @@ body{
     width: 120px;
 }
 
-.total{
-    display: inline-flex;
-}
-
-.meio01{
-    display: block;
-    margin: 10px;
+.oqfazemos{
+   font-size: 30px;
+   background-color: rgb(255, 200, 0);
+   width: 1822px;
+   padding: 50px;
+    text-align: justify;
+    color: white;
+    border-radius: 10px;
 }
 
 .crianca{
-    display:block ;
     padding: 50px;
-}
-
-.meio-amarelo{
-    display: inline-flex;
     background-color: rgb(38, 114, 196);
     color: white;
+    border: 1px white;
+    border-style: double;
 }
 
-.textinho{
-    font-size: 25px;
-    background-color: rgb(255, 200, 0);
-    border-radius: 10px;
-    padding: 12px;
-    color: white;
-    border: 2px black;
-    border-style: dashed;
-}
 
 .rodape{
     display: inline-flex;
@@ -92,4 +77,8 @@ body{
 
 .pre-rodape h1{
     margin-left: 50px;
+}
+
+.textinho{
+    font-size: 25px;
 }
