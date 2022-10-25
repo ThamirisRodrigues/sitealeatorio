@@ -4,6 +4,10 @@ body{
     text-align: center;
     align-items: center;
     font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 100vh;
+    min-width: 100%;
+    max-width: 100%;
 }
 
 .alinhar li{
@@ -21,7 +25,7 @@ body{
     text-align: center;
     justify-content: center;
     background-color: rgb(206, 249, 249);
-    width: 1822px;
+    width: 100%;
     height: 150px;
     border: 1px solid;
     color: rgb(38, 114, 196);
